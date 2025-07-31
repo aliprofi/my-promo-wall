@@ -66,7 +66,7 @@
 
 ## Автор и лицензия
 
-Плагин разработан автором [Али Профи](https://aliprofi.ru) для страницы с [aliprofi.ru]([промокодами Алиэкспресс](https://aliprofi.ru/promocodes-aliexpress/)).
+Плагин разработан автором [Али Профи](https://aliprofi.ru) для страницы с ([промокодами Алиэкспресс](https://aliprofi.ru/promocodes-aliexpress/)).
 
 © AliProfi.ru, 2025. Все права защищены.
 
